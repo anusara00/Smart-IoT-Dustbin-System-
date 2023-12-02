@@ -11,7 +11,7 @@ This project implements a Smart Bin Monitoring System using an ESP8266 microcont
 - Node-RED Dashboard
 
 ## Arduino Sketch
-The Arduino sketch (`smart_bin_monitor.ino`) contains the code for interacting with sensors, controlling the servo motor, and publishing data to an MQTT broker.
+The Arduino sketch (`Smart_IoT_Dustbin_System.ino`) contains the code for interacting with sensors, controlling the servo motor, and publishing data to an MQTT broker.
 
 ## Node-RED Flow
 The Node-RED flow (`node_red_flow.json`) provides a dashboard interface for visualizing bin levels and receiving commands from the MQTT broker.
